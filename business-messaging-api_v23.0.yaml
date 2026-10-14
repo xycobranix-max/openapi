@@ -1,7 +1,7 @@
 openapi: 3.1.0
 info:
   title: Meta Graph API - Application Connected Client Businesses
-  version: v23.0
+  version: v26.0
   description: 'API for retrieving connected client businesses associated with a Meta application.
 
 
